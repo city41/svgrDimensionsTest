@@ -1,0 +1,9 @@
+{
+  "name": "svgrDimensionsTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@svgr/cli": "^5.5.0"
+  }
+}
